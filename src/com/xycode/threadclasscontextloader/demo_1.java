@@ -23,7 +23,7 @@ public class demo_1 implements Runnable{
 	}
 	
 	public static void main(String[] args) {
-		new Thread(new demo_1()).start();;
+		new Thread(new demo_1()).start();
 		
 	}
 
